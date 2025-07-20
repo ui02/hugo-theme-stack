@@ -1,0 +1,4 @@
+baseURL = "https://ui02.github.io/hugo-theme-stack/"
+languageCode = "ja"
+title = "PYZ"
+theme = "hugo-theme-stack"
